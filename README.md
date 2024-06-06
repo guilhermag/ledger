@@ -1,6 +1,11 @@
 # README
 
-This is a dummy Rails 7 project created as a bad example of code to be refactored.
+Exercicio de refatoração realizado por:
+
+- Guilherme de Araujo Gabriel - <guilhermag@gmail.com>
+- Gustavo Luis Knecht Klein - <gustavo.klein@live.com>
+
+Para a disciplina de [Processo de Modernização de Software](https://gist.github.com/tiagogeraldi/dd1fc01db7194166a79a57cd2d5e19de)
 
 ## Setup
 
@@ -16,7 +21,6 @@ bundle exec rails app:update:bin
 
 bin/rails db:create db:migrate db:seed
 ```
-
 
 ## Start the project
 
